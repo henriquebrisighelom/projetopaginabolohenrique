@@ -1,0 +1,68 @@
+div{
+    font-family: 'Verdana';
+    text-align: center;
+    margin-top:20px;
+    margin-left: 40px;
+}
+h1{
+    font-size: 22px;
+   
+    font-weight: bold;
+}
+h2{
+    font-size: 18px;
+    color: #88100f;
+    font-weight: normal;
+   
+}
+h3{
+    font-size: 16px;
+    text-decoration: underline;
+    color: #88100f;
+    
+}
+img{
+    
+    max-width: 100%;
+    border-radius: 80px 80px;
+height: auto;
+}
+
+p {
+    font-size: 14px;
+    line-height: 28px;
+}
+
+ol {
+    font-size: 16px;
+    color: gray;
+    text-decoration: none;
+    text-align: center;
+   list-style-position:inside;
+    padding: 30px;
+    
+
+}
+
+
+
+
+.massa {
+    padding: 50px;
+   
+}
+.recheio{
+    padding: 50px;
+    
+}
+h4{
+    font-weight: normal;
+    
+    padding: 30px;
+    margin-left: 40px;
+}
+li{
+    margin-right: 40px;
+    padding:20px;
+
+}
